@@ -3,7 +3,14 @@
 
 ![E-Commerce System Design](ecom.jpg)
 
+Product service is the main products catalog service which serves the user requests about browsing and searching the desired products.
 
+Primary functionalities provided by the Product Service:
+a.	Get all the products in the system (using Paging)
+b.	Get specific products
+c.	Add new products in the e-commerce system
+d.	Update an existing product
+e.	Remove particular products in the system
 
 Products & Category API endpoints:
 
